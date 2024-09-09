@@ -7,6 +7,7 @@ public class Main {
         System.out.println("..");
         System.out.println("...");
         System.out.println("....");
+        System.out.println(".??.");
         Scanner sc= new Scanner(System.in);
         int i = sc.nextInt();
         System.out.println(i);
