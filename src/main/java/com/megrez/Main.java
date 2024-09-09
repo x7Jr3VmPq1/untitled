@@ -8,6 +8,7 @@ public class Main {
         System.out.println("...");
         System.out.println("....");
         System.out.println(".!!..");
+        System.out.println("Push test!");
         System.out.println(".??.");
         Scanner sc= new Scanner(System.in);
         int i = sc.nextInt();
